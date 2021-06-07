@@ -1,3 +1,38 @@
-h1, h2{
+body {
+    font-family: Arial;
+}
+
+#cabecalhoPrincipal h1{
     text-align: center;
+}
+
+#cabecalhoPrincipal nav{
+    text-align: center;
+}
+
+#cabecalhoPrincipal, #cabecalhoPrincipal h1{
+    background-color: rgb(39, 189, 134);
+    margin: 0px;
+}
+
+body{
+    margin: 0px;
+}
+
+#cabecalhoPrincipal h1{
+    text-align: center;
+    color: whitesmoke;
+    margin-bottom: 10px;
+}
+
+#cabecalhoPrincipal a{
+    background-color: rgb(80, 100, 190);
+    padding: 6px 25px 6px 25px;
+    font-family: Arial;
+    text-decoration: rgb(93, 117, 223);
+    color: whitesmoke;
+}
+
+#cabecalhoPrincipal nav {
+    padding: 10px;
 }
